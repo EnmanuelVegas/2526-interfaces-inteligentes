@@ -1,9 +1,11 @@
 # Enmanuel Vegas Acosta (alu0101281698@ull.edu.es)
 
-## Demostración de funcionamiento de la tarea 'Introducción a Unity':
+## Demostración y descripción del trabajo realizado en la tarea 'Introducción a Unity'
+
+### Funcionamiento
 ![demostracion](./demo.gif)
 
-## Descripción del trabajo
+### Descripción
 Para esta primera práctica se ha interactuado de manera básica con el motor de video
 juegos Unity. He agregado figuras básicas 3D (plataformas, esfera, terreno), así como 
 trabajado con recursos de los Assets de Unity, de donde hemos obtenido el Starter
