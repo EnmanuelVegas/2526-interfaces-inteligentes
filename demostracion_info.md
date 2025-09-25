@@ -1,7 +1,7 @@
 # Enmanuel Vegas Acosta (alu0101281698@ull.edu.es)
 
 ## Demostración de funcionamiento de la tarea 'Introducción a Unity':
-![demostracion](./gif_final.gif)
+![demostracion](./demo.gif)
 
 ## Descripción del trabajo
 Para esta primera práctica se ha interactuado de manera básica con el motor de video
