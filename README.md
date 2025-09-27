@@ -6,8 +6,8 @@
 ![demostracion](./demo.gif)
 
 ### Descripción
-Para esta primera práctica se ha interactuado de manera básica con el motor de video
-juegos Unity. He agregado figuras básicas 3D (plataformas, esfera, terreno), así como 
+Para esta primera práctica se ha interactuado de manera básica con el motor de videojuegos Unity.
+He agregado figuras básicas 3D (plataformas, esfera, terreno), así como 
 trabajado con recursos de los Assets de Unity, de donde hemos obtenido el Starter
 Pack en tercera persona y un recurso extra de un zombie. Se le ha añadido una etiqueta (Tags)
 personalizada a todos ellos.
